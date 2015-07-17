@@ -1,0 +1,159 @@
+﻿body 
+{
+
+padding: 0 20px;
+
+font-family: Times New Roman, sans-serif;
+
+font-size: 20px;
+
+}
+
+h1
+{ 
+color:red;
+font-family: Arial, sans-serif;
+font-size: 34px;
+
+}
+
+h2
+{ 
+color:cc3300;
+font-family: Arial, sans-serif;
+font-size: 24px;
+
+}
+
+.regist
+{ width:150px;
+height: 10px;
+float:right;
+margin-top:-20px;
+color:white;
+}
+
+.avt
+{ width:280px;
+height: 10px;
+float:right;
+margin-top:-20px;
+color:white;
+}
+
+.ssilka
+{ 
+color:003366;
+font-family: Tahoma, sans-serif;
+font-size: 14px;
+text-decoration: none;
+}
+
+.ssilka1
+{ 
+color:003366;
+font-family: Tahoma, sans-serif;
+font-size: 14px;
+}
+
+p
+{
+font-size: 19px;
+}
+
+.copyright
+{ width:150px;
+height: 10px;
+float:right;
+margin-top:-40px;
+}
+
+#container {
+margin: 10px auto;
+width: 100%;
+height:155%;
+}
+
+.post
+{ width:100%;
+height: 300px;
+border:1px solid black;
+}
+
+.zag
+{ width:450px;
+height: 50px;
+
+}
+
+.text
+{ width:870px;
+height: 200px;
+
+float:left;
+}
+
+.img
+{width:250px;
+height:250px;
+float:left;
+margin-left:200px;
+margin-top:-25px;
+}
+
+.kolcom
+{ width: 300px;
+height: 30px;
+
+float:left;
+margin-top:-25px;
+}
+
+.post1
+{ width:100%;
+height: 300px;
+border:1px solid black;
+}
+
+.zag1
+{ width:2000;
+height: 50px;
+}
+
+.text1
+{ width:1000px;
+height: 300px;
+
+float:right;
+}
+
+.img1
+{width:250px;
+height:250px;
+float:right;
+margin-right:200px;
+margin-top:-50px;
+}
+
+.kolcom1
+{ width:700px;
+height: 30px;
+
+float:right;
+margin-top:-100px;
+}
+
+.knopka
+{
+color:003366;
+float:right;
+margin-top:-42px;
+}
+
+.iavt
+{ width:360px;
+height: 10px;
+float:right;
+margin-top:-25px;
+color:white;
+}
