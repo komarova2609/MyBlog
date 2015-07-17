@@ -75,7 +75,7 @@ $("#toTop").scrollToTop();
 }); 
 </script>
 
-<p class='copyright'>©Практика 2015</p> 
+<p class='copyright'>©Комарова А.О. & Прог-Форс</p> 
 </div>
 
 </body>
